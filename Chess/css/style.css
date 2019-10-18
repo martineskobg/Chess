@@ -1,0 +1,91 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    background: #645369 ;
+}
+#wrappar{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 24rem;
+    height: 22rem;
+    background-color: #f1f1c1;
+    border-right:none;
+    border-left: none;
+    margin-top: 0;
+}
+
+td:first-child{
+    width: 1rem;
+    height: 2rem;
+    border-left:none;
+    border-top:none;
+    border-bottom: none;
+    border-right: 1px black solid;
+    text-align: center;
+
+}
+
+td:last-child{
+    width: 1rem;
+    height: 2rem;
+    border-right:none;
+    border-top:none;
+    border-bottom: none;
+    border-left: 1px black solid;
+    text-align: center;
+}
+
+.blacki{
+    background-color: #333300;
+}
+ul{
+    background-color: #f1f1c1;
+    margin-left: 19px;
+    margin-bottom: 0;
+}
+
+ul, li{
+    display: inline;
+    padding-left: 13px;
+    padding-right: 12px;
+
+}
+
+
+
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color: red;
+}
+#myTable2{
+    margin-top: -442px;
+    position: absolute;
+}
+
+input{
+    border: 1px black solid;
+    width: 80px;
+}
+#forForm{
+    margin-left: 105px;
+    margin-top: 20px;
+}
+p{
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 22px;
+    color: #fff;
+    margin: 0;
+    margin-left: 20px;
+}
